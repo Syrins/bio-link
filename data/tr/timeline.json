@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "title": "Yazılım Geliştiricisi",
+    "company": "Tech Şirketi",
+    "date": "2023 - Devam Ediyor",
+    "description": "Modern web teknolojileri ile full-stack geliştirme yapıyorum.",
+    "type": "work"
+  },
+  {
+    "id": "2",
+    "title": "Bilgisayar Mühendisliği",
+    "company": "Üniversite",
+    "date": "2019 - 2023",
+    "description": "Yazılım mühendisliği ve algoritma odaklı eğitim aldım.",
+    "type": "education"
+  }
+]
