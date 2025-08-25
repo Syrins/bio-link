@@ -1,0 +1,10 @@
+{
+  "email": "ornek@email.com",
+  "phone": "+90 555 123 4567",
+  "location": "İstanbul, Türkiye",
+  "social": {
+    "github": "https://github.com/kullanici-adi",
+    "linkedin": "https://linkedin.com/in/kullanici-adi",
+    "twitter": "https://twitter.com/kullanici-adi"
+  }
+}
