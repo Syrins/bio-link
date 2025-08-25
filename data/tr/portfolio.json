@@ -1,0 +1,15 @@
+[
+  {
+    "id": "1",
+    "title": "E-Ticaret Platformu",
+    "description": "Modern bir e-ticaret çözümü",
+    "technologies": [
+      "React",
+      "Node.js",
+      "MongoDB"
+    ],
+    "image": "/placeholder.svg",
+    "liveUrl": "https://example.com",
+    "githubUrl": "https://github.com/example"
+  }
+]
