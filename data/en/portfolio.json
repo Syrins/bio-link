@@ -1,0 +1,15 @@
+[
+  {
+    "id": "1",
+    "title": "E-Commerce Platform",
+    "description": "A modern e-commerce solution",
+    "technologies": [
+      "React",
+      "Node.js",
+      "MongoDB"
+    ],
+    "image": "/placeholder.svg",
+    "liveUrl": "https://example.com",
+    "githubUrl": "https://github.com/example"
+  }
+]
